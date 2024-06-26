@@ -1,0 +1,24 @@
+Id,State,Full Name,Form,Color,Capital,Culture,Type,Expansionism,Cells,Burgs,Area mi2,Total Population,Rural Population,Urban Population
+12,Mildavem,Mildavemish Empire,Empire,#aa4140,Zanarg,Wildlands,Generic,0.5,3177,1,288337.89689999993,35155,34635,520
+10,Ulbagra'a,Ulbagra'an Empire,Empire,#f23ace,Habuol,Wildlands,Generic,0.5,3014,3,255475.72349999993,132597,122868,9729
+11,Lauyien,Kingdom of Lauyien,Kingdom,#46bf91,Nic'olu,Wildlands,Generic,0.5,2311,2,191359.33649999995,292771,288407,4364
+9,Inver-Khar,Twin Kingdoms of Inver-Khar,Twin Kingdoms,#1fb5d2,Manxovi,Wildlands,Generic,0.5,2218,2,160246.52639999994,153132,150153,2979
+2,Evralas,Evralasian Empire,Empire,#f49418,Therius,Wildlands,Generic,0.5,1640,1,130345.74629999997,137313,136067,1246
+5,Shi'in,Kingdom of Shi'in,Kingdom,#54fb49,Livaarta,Wildlands,Generic,0.5,1533,2,123416.97479999997,148192,104392,43800
+3,Waszi,Kingdom of Waszi,Kingdom,#843eb1,Umush,Wildlands,Generic,0.5,1621,1,122067.58139999997,32845,32284,561
+6,West Esla,Kingdom of West Esla,Kingdom,#ff5f62,Telit,Wildlands,Generic,0.5,1418,1,113373.28619999997,97694,95635,2059
+23,Illoveth,Kingdom of Illoveth,Kingdom,#ca3dab,Nylmas,Nevterish,Generic,0.5,1142,1,98424.91619999998,114730,86690,28040
+7,Esla,Eslan Empire,Empire,#183ac7,Ti'rui,Wildlands,Generic,0.5,1089,5,87278.28029999997,172874,105763,67111
+4,Irdre,Irdrean Consulate,Consulate,#587cf2,Enasha,Wildlands,Generic,0.5,1189,3,86340.97709999997,88294,67303,20991
+18,Sueiana,Great Union of Sueiana,Great Union,#ffd92f,Ormlar,Therini,Generic,4.2,864,1,72988.44659999998,96745,95379,1367
+22,Mesenolo,Mesenolan Republic,Republic,#ff8040,Sheonan,Maysiolian,Generic,0.5,899,2,70144.21619999998,116855,92880,23975
+14,Salvania,Salvanian Kingdom,Kingdom,#a257f5,Innur,Wildlands,Generic,0.5,817,2,68831.18369999998,124164,92774,31390
+20,Varcii,Varciian Commonwealth,Commonwealth,#45df9c,Varcii,Nevterish,Generic,0.5,827,1,65631.42449999998,89030,75431,13599
+13,Vostis,Vostish Kingdom,Kingdom,#e13a4b,Kayova,Wildlands,Generic,0.5,763,2,61765.04879999998,76282,59737,16545
+1,Pareptul,Empire of Pareptul,Empire,#df9044,Carvv,Wildlands,Generic,0.5,776,5,61356.99869999998,172696,87375,85321
+16,Abeia,The Union Sovereign Cities of the Abeian Strait,Union,#e64183,O'asa,Wildlands,Generic,0.5,859,3,59922.76319999999,151124,95727,55397
+8,Moncosia,Kingdom of Moncosia,Kingdom,#c4d83e,Moncos,Wildlands,Generic,0.5,855,2,59425.830899999986,71735,47882,23853
+17,Lathanar,Dominion of Lathanar,Dominion,#a6d854,Kanar,Esla'rei,Generic,1.3,724,1,55854.382499999985,61502,59295,2207
+15,Bransha,Kingdom of Bransha,Kingdom,#a4f158,Cascayo,Wildlands,Generic,0.5,616,1,55070.603099999986,63041,40411,22630
+19,Hethi,Council of Hethi,Council,#e6ad7f,Himna Ve'amla,Therini,Generic,6,701,1,52686.944099999986,58063,53765,4298
+0,Neutrals,,,,,,,,0,0,0,0,0,0
